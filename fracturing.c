@@ -1,5 +1,5 @@
 //********************************************************
-// Assignment1.c
+// fracturing .c
 // Author: Joshua Trexler
 // Class: COP 3223, Professor Parra
 // Purpose: This program is a calculator used to determine multiple properties given two points.

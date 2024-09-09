@@ -38,9 +38,9 @@ double calculateDistance()
     double x1, y1, x2, y2;
     
     //Request points from user
-    printf("Enter Point #1 (x1, y1): ");
+    printf("Enter Point #1 (x1 y1): ");
     scanf("%lf %lf", &x1, &y1);
-    printf("Enter Point #2 (x2, y2): ");
+    printf("Enter Point #2 (x2 y2): ");
     scanf("%lf %lf", &x2, &y2);
     
     //Calculate distance
